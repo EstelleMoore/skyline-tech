@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+table,th,td{
+    margin: auto;
+    margin-top: 40px;
+    border-bottom: 2px solid darkcyan;
+    border-collapse: collapse;
+}
+
+table{
+    width: 60%;
+}
+
+th, td{
+    padding: 10px;
+    font-size: 20px;
+}
+
+caption{
+    font-size: 30px;
+    background-color: rgb(143, 143, 252);
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+th{
+    font-size: 20px;
+    background-color: rgb(21, 70, 203);
+    color: white;
+    padding: 10px;
+}
+
+tr:nth-child(even){
+    background-color: lightgray;
+}
+
+tr:hover{
+    background-color: darkgray;
+}
+
+.fa-square-check{
+    font-size: 30px;
+    color: green;
+}
+
+.fa-xmark{
+    font-size: 30px;
+    color: red;
+}

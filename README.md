@@ -1,1 +1,1 @@
-# skyline-tech
+To appropriately organise data in rows and columns, or even in a more complex structure, a table in CSS is used to apply the various style properties to the HTML Table components. In data analysis, research, and communication, tables are frequently utilised. The table's layout can be seen using the CSS table-layout property. Basically, this attribute is used to set the layout method for <table>cells, rows, and columns.
