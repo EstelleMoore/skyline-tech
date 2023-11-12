@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+}
+
+.tabular{
+    margin-bottom: 50px;
+}
+
+table,th,td{
+    border-bottom: 2px solid green;
+    padding: 20px;
+}
+
+table{
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    border-collapse: collapse;
+
+}
+tr, td{
+    padding: 20px;
+}
+
+td{
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+caption{
+    margin: auto;
+    background-color: orange;
+    width: 60%;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+th{
+    font-size: 20px;
+    background-color: rgb(21, 70, 203);
+    color: white;
+    padding: 10px 30px 10px 30px;
+}
